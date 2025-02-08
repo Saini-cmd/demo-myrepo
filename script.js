@@ -1,4 +1,4 @@
 let btn = document.querySelector('button');
 btn.addEventListener('click', () => {
-    alert('You clicked the button');
+    document.querySelector('p').style.backgroundColor = 'gray';
 });
