@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    text-align: center;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellow;
+    color: magenta;
+    font-size: 20px;
+}
+
+button {
+    background-color: blue;
+    font-size: 30px;
+}
